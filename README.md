@@ -1,7 +1,7 @@
 ## Bio
 
 I'm a Full-Stack Software Engineer with experience in JavaScript and React. I enjoy working with both Front-End and Back-End architecture; I pride myself on being organized and detail-oriented in my coding practices, committed to improving my grasp of programming languages, and endlessly curious about how to solve the problems I run into.
-My background in the Marine Corps is what started me on the path to tech, and also where I developed strong computer, research, and report-writing skills. I also learned the skills necessary to communicate and work as part of a team, which I still use while working on a team with Software Engineers.
+My background in the Marine Corps is what started me on the path to tech. While active-duty I developed strong computer, research, and report-writing skills, learned the skills necessary to communicate and work as part of a team, which I still use while working on a team with Software Engineers.
 
 - 🌱 I’m currently learning: Express and PostgreSQL
 - 👯 I’m looking to collaborate on: React projects
